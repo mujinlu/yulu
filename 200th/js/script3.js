@@ -4,8 +4,8 @@ var Qixi = function () {
         layer: {"width": "100%", "height": "100%", "top": 0, "left": 0},
         audio: {
             enable: true,
-            playURl: "music/happy.wav",
-            cycleURL: "music/circulation.wav"
+            playURl: "music/happy.mp3",
+            cycleURL: "music/circulation.mp3"
         },
         setTime: {
             walkToThird: 6000,
